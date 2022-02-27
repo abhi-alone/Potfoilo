@@ -16,7 +16,8 @@ Hands-on experience in tools:
   - HomeKit Accessory Simulator
   - Z Wave Certification Tool
   - Vector Cast
-Good knowledge of applying C and python in a multitasking embedded environment.
+- Good knowledge of applying C and python in a multitasking embedded environment.
+
 ## **Projects**
 
 ### Firmware Development of IoTifed Security Locker
