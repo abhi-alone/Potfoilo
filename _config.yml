@@ -1,14 +1,6 @@
-title: <p align="center"> Abhishekh Shah </p>
-logo: /assets/img/logo.jpeg
-
-description:
-  <br>   
-  I'm worked on various Embedded domians like, IoT, Aerospace, Medical.
-  Skilled in programming scripting (C, C++, Python), Lauterbach scripting, knowledge of Standard DO 178B and working ability in Agile base projects.
-  I have 6.8yrs of total experience.
-  <br>
-  </p>
-
-
-
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
