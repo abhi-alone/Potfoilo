@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Shah Abhishekh Pareshkumar
+logo: /assets/img/logo.jpeg
+description: 
+<p>
+<br>I'm worked on various Embedded domians like, IoT, Aerospace, Medical.
+<br>Skilled in programming scripting (C, C++, Python), Lauterbach scripting, knowledge of Standard DO 178B and working ability in Agile base projects.
+<br>I have 6.8yrs of total experience.
+<br>
+</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
